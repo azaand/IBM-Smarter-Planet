@@ -5,7 +5,7 @@ Getting Started:
 - Enter your university email address
 - Follow instructions to create account and receive activation code
 - Download WebStorm
-- 
+
 Saving the project file
 - Open your Terminal
 - Navigate to where you want to save the project directory
