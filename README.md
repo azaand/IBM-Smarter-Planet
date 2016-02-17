@@ -16,5 +16,3 @@ Installing dependencies
 - When it asks you to activate, select the "Register" option and enter the credentials you created before
 - Open the IBM-Smarter-Planet project file
 - Open the WebStorm built-in terminal
-- Navigate to node_modules > express 
-- Run npm install to install all the dependencies listed in the package.json file
