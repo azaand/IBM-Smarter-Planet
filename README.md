@@ -41,5 +41,7 @@ Installing dependencies
             -$ grunt package
 
 Running the local server
-        -$ grunt webserver
-        -Go to localhost:8000 in your browser
+    -$ cd angular.js
+    -$ grunt webserver
+    -Go to localhost:8000 in your browser
+    -All web files are located under angular.js/app
