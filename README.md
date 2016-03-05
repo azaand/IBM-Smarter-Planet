@@ -18,8 +18,6 @@ Installing dependencies
 - When it asks you to activate, select the "Register" option and enter the credentials you created before
 - Open the IBM-Smarter-Planet project file
 - Open the WebStorm built-in terminal
-- Using the quick start installation for the Mother sensor visit https://sen.se/developers/documentation/ or:
-    -$ pip install sense-python-client
 - Using AngularJS https://angularjs.org
     -Install Grunt
         -$ npm install -g grunt-cli
@@ -45,3 +43,9 @@ Running the local server
     -$ grunt webserver
     -Go to localhost:8000 in your browser
     -All web files are located under angular.js/app
+    
+Using the quick start installation for the Mother sensor visit https://sen.se/developers/documentation/
+    -Install the Python Sense client
+    -$ pip install sense-python-client
+    
+ 
